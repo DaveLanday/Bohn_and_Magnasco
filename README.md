@@ -6,7 +6,7 @@ hexagonal lattices and associated adjacency matrices. For example, you can creat
 base of the hexagon in seconds *note: I would not attempt to visualize the simulation on a lattice this large 
 
 Feel free to generate your own optimal transport lattices by adjusting the input paramters to the simulation method.
-Users are able to change the source location and (\gamma) values to visualize how current is delivered over the hexagonal
+Users are able to change the source location and $$\gamma$$ values to visualize how current is delivered over the hexagonal
 lattice network.
 
 For examples of the output, see the images  folder.
